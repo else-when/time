@@ -1,5 +1,5 @@
 time
 ====
-In search of personalized time: LACMA Art + Tech Lab
+In search of personalized time: LACMA Art + Tech Lab.
 
-This is roon's change
+This is Roon's change.
