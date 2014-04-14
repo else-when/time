@@ -4,4 +4,4 @@ pygments: true
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
- 
+markdown: kramdown 
