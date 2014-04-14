@@ -1,5 +1,4 @@
-# General Jekyll Config
- 
 exclude: [LICENSE, CNAME, README.md, .gitignore]
-
-markdown: kramdown 
+markdown: kramdown
+permalink: pretty
+baseurl: /time
