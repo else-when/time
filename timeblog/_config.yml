@@ -1,28 +1,7 @@
 # General Jekyll Config
 pygments: true
-url: tchoi8.github.io/time/ 
+ 
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
-# Theme customization - please change from the defaults!
-theme:
-  # Color for top bar, links, etc
-  highlight_color: '#00CC00'
-
-  # Profile links on the left sidebar, leave blank to ignore
-  social:
-    github: tchoi8
-    twitter: tchoi8
-    facebook: taeyoon.choi.7
-    
-
-  # "Hi, I'm _______"
-  name: Taeyoon Choi
-  email: me@taeyoonchoi.com
-  tagline: "bored but curious"
-
-  # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
-
-  # Toggle "Postings are my own" disclaimer in footer
-  show_disclaimer: true
+ 
