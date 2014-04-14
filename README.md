@@ -1,5 +1,13 @@
 time
 ====
-In search of personalized time: LACMA Art + Tech Lab
+In search of personalized time: LACMA Art + Tech Lab.
 
-This is roon's change
+by Taeyoon Choi and E Roon Kang. 
+(2014)
+
+Running locally
+---
+when running locally on your computer try the following
+
+
+bundle exec jekyll serve --watch --baseurl 
