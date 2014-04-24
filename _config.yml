@@ -1,7 +1,3 @@
-exclude: [LICENSE, CNAME, README.md, .gitignore]
-markdown: kramdown
-permalink: pretty
-baseurl: /time
 name: In Search of Personalized Time
 markdown: redcarpet
 pygments: true
