@@ -1,0 +1,9 @@
+The contemporary world operates in terms of global synchronization. From global finance, to cloud-based data storage, to the many day-to-day functions of the smartphone, we live in a moment where the semblance of simultaneity is a defining characteristic of value.
+
+This state of affairs is not entirely new. At least since Isaac Netwon's conceptualization of [Absolute Time](http://en.wikipedia.org/wiki/Absolute_time_and_space) (though arguably for far longer), popular perceptions have relied on the idea that time is a fixed medium in which events take place, rather than a dynamic contributing factor to those events. In this view, time becomes the backdrop for all that happens: homogeneous, unchanging, and holding supremacy over objects and space. Today's technologies accelerate this perspective, and its ubiquity often masks it from questioning. When this perspective is dominant, human experience as it is quantified gains currency at the expense of human experience as it is felt.
+
+With TITLETK, we endeavor to shift the tides of global synchronization in order to make space for subjective temporal perception. By creating alternative flows of time in a distributed network of temporalities, users' personal times will be given new leverage against master time.
+
+*TITLETK is an attempt to live unreal time in real-time world.*
+
+Through research and collaborations with scientists, artists, and technologists, we will develop a new technology proposing an alternative standard of measurement for formalizing desynchronized time. It will be formed as a challenge to Greenwich Mean Time: the geopolitical standard which divides the world into 24 time zones. Our temporality framework will facilitate desynchronization from the prescribed time zone, and will be characterized by its flexibility and functional basis in shared sentience.
